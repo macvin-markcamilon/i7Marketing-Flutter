@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">113335212342-3db4hseguk3g7qoi7oohce3m1b64857c.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://i7-marketing-test-project-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">113335212342</string>
+    <string name="google_api_key" translatable="false">AIzaSyB9e77ez89et8AyZNks-qzGItMy55YMzLY</string>
+    <string name="google_app_id" translatable="false">1:113335212342:android:b37bb4174aed96ebba3b97</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB9e77ez89et8AyZNks-qzGItMy55YMzLY</string>
+    <string name="google_storage_bucket" translatable="false">i7-marketing-test-project.appspot.com</string>
+    <string name="project_id" translatable="false">i7-marketing-test-project</string>
+</resources>

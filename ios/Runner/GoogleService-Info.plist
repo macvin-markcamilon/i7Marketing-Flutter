@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>113335212342-ifnlbb5ei5bi1km537gs4d95s56pmp87.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.113335212342-ifnlbb5ei5bi1km537gs4d95s56pmp87</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>113335212342-f8it3dlafi53srln00ad3q338m9jhpm2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBdsdGLWRtiyv13k6N958mGykVSNwH83bQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>113335212342</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.macvindev.i7marketingflutter</string>
+	<key>PROJECT_ID</key>
+	<string>i7-marketing-test-project</string>
+	<key>STORAGE_BUCKET</key>
+	<string>i7-marketing-test-project.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:113335212342:ios:f835bd8de91ebda1ba3b97</string>
+	<key>DATABASE_URL</key>
+	<string>https://i7-marketing-test-project-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

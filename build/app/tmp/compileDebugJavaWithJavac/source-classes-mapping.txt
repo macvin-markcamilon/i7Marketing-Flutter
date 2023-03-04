@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/macvindev/i7marketingflutter/BuildConfig.java
+ com.macvindev.i7marketingflutter.BuildConfig

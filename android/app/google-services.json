@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "113335212342",
+    "firebase_url": "https://i7-marketing-test-project-default-rtdb.firebaseio.com",
+    "project_id": "i7-marketing-test-project",
+    "storage_bucket": "i7-marketing-test-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113335212342:android:b37bb4174aed96ebba3b97",
+        "android_client_info": {
+          "package_name": "com.macvindev.i7marketingflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113335212342-f8it3dlafi53srln00ad3q338m9jhpm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.macvindev.i7marketingflutter",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "113335212342-3db4hseguk3g7qoi7oohce3m1b64857c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9e77ez89et8AyZNks-qzGItMy55YMzLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113335212342-3db4hseguk3g7qoi7oohce3m1b64857c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113335212342-ifnlbb5ei5bi1km537gs4d95s56pmp87.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.macvindev.i7marketingflutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113335212342:android:8d02d50b8ebdbeb2ba3b97",
+        "android_client_info": {
+          "package_name": "com.macvindev.i7marketingtestproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113335212342-r4nesv44rgmkaah32bu4bu88v7loij7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.macvindev.i7marketingtestproject",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "113335212342-3db4hseguk3g7qoi7oohce3m1b64857c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9e77ez89et8AyZNks-qzGItMy55YMzLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113335212342-3db4hseguk3g7qoi7oohce3m1b64857c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113335212342-ifnlbb5ei5bi1km537gs4d95s56pmp87.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.macvindev.i7marketingflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
